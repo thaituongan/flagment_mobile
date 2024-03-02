@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_tab_1" android:title="home" android:icon="@drawable/present"/>
+    <item android:id="@+id/menu_tab_2" android:title="rating" android:icon="@drawable/rating"/>
+    <item android:id="@+id/menu_tab_3" android:title="transfer" android:icon="@drawable/moneytransfer"/>
+    <item android:id="@+id/menu_tab_4" android:title="world" android:icon="@drawable/worldwide_shipping"/>
+
+</menu>
